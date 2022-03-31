@@ -1,0 +1,9 @@
+G:\Cipher\CSHexCipher\CSHexCipher\bin\Debug\CSHexCipher.exe.config
+G:\Cipher\CSHexCipher\CSHexCipher\bin\Debug\CSHexCipher.exe
+G:\Cipher\CSHexCipher\CSHexCipher\bin\Debug\CSHexCipher.pdb
+G:\Cipher\CSHexCipher\CSHexCipher\obj\Debug\CSHexCipher.csprojAssemblyReference.cache
+G:\Cipher\CSHexCipher\CSHexCipher\obj\Debug\CSHexCipher.csproj.CoreCompileInputs.cache
+G:\Cipher\CSHexCipher\CSHexCipher\obj\Debug\CSHexCipher.exe
+G:\Cipher\CSHexCipher\CSHexCipher\obj\Debug\CSHexCipher.pdb
+G:\Cipher\CSHexCipher\CSHexCipher\obj\Debug\CSHexCipher.Properties.Resources.resources
+G:\Cipher\CSHexCipher\CSHexCipher\obj\Debug\CSHexCipher.csproj.GenerateResource.cache
